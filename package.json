@@ -1,0 +1,24 @@
+{
+  "name": "dragon_rain",
+  "version": "1.0.1",
+  "description": "年份：龙年\r 节气：雨水",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoqisong0/dragon_rain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoqisong0/dragon_rain/issues"
+  },
+  "homepage": "https://github.com/xiaoqisong0/dragon_rain#readme",
+  "dependencies": {
+    "dragon_lucky_words": "^1.0.0",
+    "jquery": "^3.7.1"
+  }
+}
