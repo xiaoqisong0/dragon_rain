@@ -5,6 +5,7 @@
 
 # 安装与使用：
 npm i dragon_rain
+
 import { dragonRain } from "dragon_rain";
 
 dragonRain.dragonRain('xxxxx');
