@@ -1,6 +1,6 @@
 {
   "name": "dragon_rain",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "年份：龙年\r 节气：雨水",
   "main": "index.js",
   "scripts": {
